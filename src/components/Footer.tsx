@@ -63,7 +63,7 @@ export function Footer() {
               href="tel:+5521970713045"
               className="text-[15px] transition-opacity hover:opacity-60"
             >
-              Telefone: (21) 97071-3045
+              Telefone: (21) 90000-0000
             </a>
 
             <span className="text-[15px]">
@@ -76,7 +76,7 @@ export function Footer() {
         {/* Copyright */}
         <div className="mt-10 border-t border-white/10 pt-6 text-center">
           <p className="text-[14px] text-white">
-            © 2026 Hinfo. Todos os direitos reservados.
+            © 2026 Hinfo. Desenvolvida por Felipe Rodrigo.
           </p>
         </div>
 
